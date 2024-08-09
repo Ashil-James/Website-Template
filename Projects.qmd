@@ -1,0 +1,9 @@
+---
+title: "PROJECTS"
+---
+
+* **Tic-Tac-Toe** &emsp; November 2023
+
+* **Sanke Game Using Java with GUI** &emsp; July 2023
+
+* **Made Blog using quarto** &emsp; July 2024

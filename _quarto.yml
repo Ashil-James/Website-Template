@@ -1,50 +1,49 @@
 project:
   type: website
   output-dir: docs
+
 website:
-  title: "A Journey Within"
-  
+  title: "Personal Website"
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - href: papers.qmd
-        text: Papers
+        text: About me
+      - href: education.qmd
+        text: Education
       - href: workshops.qmd
         text: Workshops
-      - href: blog.qmd
-        text: Blog
-      - about.qmd
+      - href: Projects.qmd
+        text: Projects
+      - href: techstack.qmd
+        text: Technical Skills
+      - href: soft.qmd
+        text: SoftSkills
+      - href: achieve.qmd
+        text: Achievements
+
   sidebar:
     style: "docked"
-    logo: "./images/user_image.png"
+    logo: "Ashnewpic.jpg"
     search: true
     collapse-level: 2
     contents:
+      - icon: linkedin
+        text: LinkedIn
+        url: https://www.linkedin.com/in/ashil-george-james/
       - icon: github
         text: Github
-        url: https://github.com
+        url: https://github.com/Ashil-James
+
       - icon: twitter
         text: Twitter
         url: https://twitter.com
-      - icon: Email
-      - text: "Email"
-        url: mailto:siju.swamy@saintgits.org
-      - text: "ORCID"
-        url: https://orcid.org/<orcid-id>
-      - text: "Google Scholar"
-        url: https://scholar.google.com/citations?user=<google-scholar-user>
-  announcement: 
-    icon: info-circle
-    dismissable: true
-    content: "**Alert** - This Website is created using `Quarto` and Published as Github Pages"
-    type: primary
-    position: below-navbar
+
+      - icon: instagram
+        text: Instagram
+        url: https://www.instagram.com/ashil_james14/
+
 format:
   html:
-    theme: cosmo
+    theme: lux
     css: styles.css
     toc: true
-  
-
-

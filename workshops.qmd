@@ -1,7 +1,12 @@
 ---
-title: "Workshops Attended"
+title: "WORKSHOPS ATTENDED"
 ---
 
-### 2024
+* **End-to-End Machine-Learning Project** &emsp; July 2024
 
-- `Advanced Tools for Literate Programming and Machine Learning`, August 6-7, 2024 
+* **Workshop on GEN-AI** &emsp; April 2024
+
+* **WorkShop on NetWork-Essentials** &emsp; October 2023
+
+* **PMI CHAPTER** &emsp; September 2023
+

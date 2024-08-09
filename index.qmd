@@ -1,7 +1,22 @@
 ---
-title: "My Personal Webpage"
+title: "Ashil George James"
 ---
 
-Welcome to my personal page! I thrive on solving complex problems and love turning innovative ideas into reality. Whether I'm coding, designing, or exploring new fields, I bring dedication and curiosity to everything I do. Outside of work, I enjoy hiking, reading science fiction, and experimenting with new recipes. Here, you'll find insights into my projects, interests, and the journey I'm on to make a positive impact in the world. Thank you for visiting, and I hope you find something that inspires you!
+I am Ashil George James,I am  a second year Computer Science and Engineering student doing minor in Computational Mathematics with a passion for pushing the boundaries of knowledge in AI. With a strong background in Computer Science, my research focuses on Practive Oriented AI, aiming to contribute to meaningful advancements and solutions.My passion for engineering stems from a deep curiosity about how things work and a desire to solve real-world problems through innovative solutions. 
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+**I'm currently learning**
+
+- Programming languages l Python, Java and C .
+- Computational Mathematics.
+- Python for data science.
+- DataStructures and Algorithm
+
+**I’m currently working on**
+
+- Building my foundational knowledge in computer science and exploring various other fields.
+
+**I’m looking to collaborate on:**
+
+- Beginner level related to WebDev, AI-ML.
+- DataStructures and Algorithm
+- Competitive Programing.

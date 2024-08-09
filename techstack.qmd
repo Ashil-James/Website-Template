@@ -1,0 +1,22 @@
+---
+title: "TECHINCAL SKILLS"
+---
+
+### Languages
+
+- JAVA
+
+- C++
+
+- C
+
+- HTML,CSS
+
+- PYTHON
+
+## TOOLS
+
+- GIT
+- GIT-HUB
+- VSCODE
+- INTELIJ-IDEA
